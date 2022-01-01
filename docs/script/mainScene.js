@@ -314,7 +314,7 @@ phina.define('Card', {
             // toraSprite.width = CARD_SIZE_X;
             // toraSprite.height = CARD_SIZE_Y;
             // toraSprite.addChildTo(self);
-            self.fontSize = 180;
+            self.fontSize = 160;
             self.text = '🐯'
         } else {
             self.text = self.number;

@@ -8,7 +8,6 @@ const ASSETS = {
         aoyagi: './font/AoyagiKouzanTOTF.otf'
     },
     image: {
-        'tora': './img/animalface_tora.png',
     },
     sound: {
         'se_ok': './sound/maoudamashi_sys_38.mp3',
