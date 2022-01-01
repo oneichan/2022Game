@@ -310,11 +310,7 @@ phina.define('Card', {
         var self = this;
         // 表向きにする
         if (self.number === TORA_NUMBER) {
-            // let toraSprite = Sprite('tora');
-            // toraSprite.width = CARD_SIZE_X;
-            // toraSprite.height = CARD_SIZE_Y;
-            // toraSprite.addChildTo(self);
-            self.fontSize = 160;
+            //self.fontSize = 160;
             self.text = '🐯'
         } else {
             self.text = self.number;
